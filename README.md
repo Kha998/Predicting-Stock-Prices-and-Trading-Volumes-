@@ -67,6 +67,4 @@ TIME SERIES ANALYSIS
 
 ## 📎 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Kha998/Predicting-Stock-Prices-and-Trading-Volumes.git
+Run all cells to generate predictions and plots.
