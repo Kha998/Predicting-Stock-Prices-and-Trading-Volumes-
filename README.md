@@ -1,10 +1,10 @@
-# 📈 Predicting Stock Prices and Trading Volumes
+#  Predicting Stock Prices and Trading Volumes
 
 This project focuses on building a predictive analytics pipeline to **forecast stock prices and trading volumes** for selected Indian companies using historical data. The goal is to empower financial decision-making by combining statistical models and machine learning algorithms on real market data.
 
 ---
 
-## 🔍 Project Objectives
+##  Project Objectives
 
 - Predict closing stock prices using time-series modeling.
 - Analyze trading volume trends and detect anomalies.
@@ -14,7 +14,7 @@ This project focuses on building a predictive analytics pipeline to **forecast s
 
 ---
 
-## 📂 Files and Structure
+##  Files and Structure
 
 | File | Description |
 |------|-------------|
@@ -24,7 +24,7 @@ This project focuses on building a predictive analytics pipeline to **forecast s
 
 ---
 
-## 🧠 Technologies & Libraries
+##  Technologies & Libraries
 
 - **Python**: Data processing and modeling
 - **Pandas, NumPy**: Data manipulation
@@ -35,7 +35,7 @@ This project focuses on building a predictive analytics pipeline to **forecast s
 
 ---
 
-## 📊 Sample Visuals & Analysis
+##  Sample Visuals & Analysis
 
 - Daily price trend charts and candlestick plots
 - Correlation between volume and price
@@ -48,7 +48,7 @@ TIME SERIES ANALYSIS
 
 ---
 
-## 📌 Notes & Assumptions
+##  Notes & Assumptions
 
 - Data is assumed to be pre-cleaned and indexed by date.
 - Only stocks with consistent trading data over the observed period are included.
@@ -57,7 +57,7 @@ TIME SERIES ANALYSIS
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Integrate news sentiment and macro indicators (e.g., inflation, GDP)
 - Implement LSTM or Prophet for better long-term forecasting
